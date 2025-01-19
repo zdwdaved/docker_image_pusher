@@ -12,7 +12,6 @@ mysql
 redis
 python
 node
-java
 ruby
 alpine
 busybox
