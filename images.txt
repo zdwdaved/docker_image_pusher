@@ -15,3 +15,4 @@ node
 ruby
 alpine
 busybox
+chishin/wol-go-web
